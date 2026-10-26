@@ -1,0 +1,10 @@
+﻿archivo,categoria,duracion_aprox_seg,descripcion,wav,mp3
+01_bienvenida_chime,Bienvenida,1.55,"Campanitas ascendentes, amable y clara para una entrada normal.",../01_bienvenidas/01_bienvenida_chime.wav,mp3/01_bienvenida_chime.mp3
+02_bienvenida_pop,Bienvenida,0.62,Pop corto con dos destellos; discreto cuando llegan varios espectadores.,../01_bienvenidas/02_bienvenida_pop.wav,mp3/02_bienvenida_pop.mp3
+03_bienvenida_ping,Bienvenida,0.72,"Ping digital original, brillante y corto.",../01_bienvenidas/03_bienvenida_ping.wav,mp3/03_bienvenida_ping.mp3
+04_suscriptor_gold,Suscriptor,1.85,Arpegio dorado de celebración para suscriptor confirmado.,../02_suscriptores_y_vip/04_suscriptor_gold.wav,mp3/04_suscriptor_gold.mp3
+05_vip_sparkle,VIP / especial,1.65,Brillo ascendente elegante para eventos especiales o VIP.,../02_suscriptores_y_vip/05_vip_sparkle.wav,mp3/05_vip_sparkle.mp3
+06_whoosh_transicion,Efecto,0.95,Barrido de aire para transiciones o cambios de escena.,../03_efectos_live/06_whoosh_transicion.wav,mp3/06_whoosh_transicion.mp3
+07_level_up,Efecto,1.15,"Subida musical breve para metas, raids o logros.",../03_efectos_live/07_level_up.wav,mp3/07_level_up.mp3
+08_alerta_bajo,Alerta,0.58,"Golpe grave corto para alertas destacadas, sin cola larga.",../03_efectos_live/08_alerta_bajo.wav,mp3/08_alerta_bajo.mp3
+09_momento_especial,Especial,1.25,Campanillas festivas para un momento especial o donación.,../02_suscriptores_y_vip/09_momento_especial.wav,mp3/09_momento_especial.mp3
